@@ -26,8 +26,8 @@ let package = Package(
     // ...
     dependencies: [
         .package(
-            url: "https://github.com/blitzensblitzin/console-color.git",
-            from: "0.1.0"),
+            url: "https://github.com/deus-x-mackina/console-color.git",
+            from: "0.1.1"),
         ]
     // ...
 )
@@ -39,7 +39,7 @@ If cloning the repo manually, you have a bit more flexibility with the things
 you can play around with.
 
 ```shell script
-git clone https://github.com/blitzensblitzin/console-color.git
+git clone https://github.com/deus-x-mackina/console-color.git
 cd console-color
 ```
 
